@@ -4,10 +4,6 @@
 
 github 어려워
 test
-test
-test
-test
-test
 matplotlib
 matplotlib 
 seaborn
@@ -15,3 +11,4 @@ matplotlib
 seaborn
 pandas
 numpy
+d3.js data visualization
