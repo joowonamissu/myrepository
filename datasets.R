@@ -19,3 +19,7 @@ help(mpg)
 install.packages('readr') 
 library(readr)
 guess_encoding('customer.txt')
+
+이 파일을 gitHhub에 push 해보자
+github는 어려워 
+그러나 알아두면 매우 편리
